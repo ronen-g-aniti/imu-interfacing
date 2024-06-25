@@ -14,11 +14,11 @@ This project performs the following tasks:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/mpu9250-sensor-calibration.git
-   cd mpu9250-sensor-calibration
+   git clone https://github.com/ronen-g-aniti/imu-interfacing.git
+   cd imu_interfacing
    ```
 
-2. Open `imu_interfacing/imu_interfacing.ino` in your Arduino IDE.
+2. Open `imu_interfacing.ino` in your Arduino IDE.
 
 3. Upload the code to your Arduino board.
 
